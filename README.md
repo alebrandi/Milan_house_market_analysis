@@ -1,2 +1,15 @@
 # Milan_house_market_analysis
 Analysis and prediction of the housing market for the city of Milan, Italy 
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean aliquet nibh mi, quis rutrum mauris tristique quis. Nunc arcu tortor, tempor et consequat sed, fermentum venenatis mauris. Maecenas tempor, ipsum at maximus blandit, risus nunc fringilla velit, ac pellentesque massa nunc sed arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut mollis congue justo, sit amet tempor est interdum a. Praesent a rutrum orci, ac volutpat sapien. Mauris sed laoreet orci. Vestibulum et nisl nec dolor finibus congue. Phasellus non luctus ante, porttitor suscipit nisl. Proin feugiat ipsum ex, eget mollis dui malesuada ac.
+
+Nullam eleifend nibh id mauris cursus pulvinar. Integer et imperdiet nulla, eget porttitor orci. Nam id nisl sit amet elit vulputate facilisis. Aenean laoreet risus ac posuere congue. Nulla quis dignissim lacus, eget bibendum sapien. Maecenas non condimentum leo. Donec id molestie purus. Vestibulum eleifend ultrices turpis ut tincidunt. Proin id metus ultricies, ullamcorper erat ut, mollis nisl. Integer fermentum lacus arcu, id mattis tortor accumsan eget. In viverra sit amet tortor sit amet sagittis. Proin facilisis purus ut nulla ultricies rhoncus. Donec ultrices ex posuere purus sagittis, sit amet dictum neque finibus. Mauris viverra neque ut dapibus condimentum. Curabitur non fringilla leo, nec ultrices lectus. Nunc ex neque, aliquet id ex a, euismod tincidunt tellus.
+
+Proin quis blandit tellus, at sollicitudin dui. Aliquam tristique odio accumsan ligula pellentesque, quis commodo lectus congue. Vivamus facilisis lorem eu magna pretium laoreet. Sed et pellentesque nibh. Fusce egestas bibendum sapien a egestas. Aenean ut feugiat ante. Sed dapibus ante nec risus porta scelerisque. Suspendisse vehicula dui at dolor euismod vestibulum in ut arcu. Donec ac velit volutpat, sodales lacus viverra, venenatis arcu. Nunc porta risus vitae massa aliquam, vel imperdiet lorem consectetur. Fusce vitae auctor ex. Mauris eu enim vel lorem fringilla volutpat. Sed ac mattis purus, non porttitor leo. Aliquam in commodo mauris. Maecenas consequat erat vestibulum enim vestibulum scelerisque. Quisque varius non dolor eget ultrices.
+
+Curabitur pulvinar dictum magna aliquet porta. Morbi aliquet ex vel mauris venenatis gravida in vel lacus. Nulla gravida ex at mi tincidunt, sit amet pulvinar odio rutrum. Aenean sit amet accumsan nisi, quis mollis mi. Aenean iaculis porta augue quis sagittis. Sed in condimentum odio, porttitor porttitor ante. Nam pretium condimentum est id volutpat.
+
+Vivamus semper nisl augue. Duis vel mollis mauris, eget porta eros. Ut in condimentum sem, sit amet cursus sem. Pellentesque convallis nisi ac turpis dapibus ornare. Nam eget nunc vel dolor ornare malesuada in at nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras consectetur nec magna non egestas. Morbi at tellus augue.
+
