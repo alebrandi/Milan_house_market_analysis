@@ -1,6 +1,10 @@
 # Milan_house_market_analysis
 Analysis and prediction of the housing market for the city of Milan, Italy 
 
+## Author
+- [@alebrandi](https://www.github.com/alebrandi)
+
+## Summary
 
 For this project I first had to scrape the data of all the houses for sale in the city of Milan, Italy. I chose this city because it is one of the richest and largest cities in my country and where the housing market has lately skyrocketed. 
 To do this I used the platform https://www.immobiliare.it/ which is the most famous website for selling and buying properties between private individuals in Italy.
